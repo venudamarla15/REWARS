@@ -1,0 +1,153 @@
+D:/test/RewardPoints/bin/Debug/net6.0/appsettings.Development.json
+D:/test/RewardPoints/bin/Debug/net6.0/appsettings.json
+D:/test/RewardPoints/bin/Debug/net6.0/RewardPoints.exe
+D:/test/RewardPoints/bin/Debug/net6.0/RewardPoints.deps.json
+D:/test/RewardPoints/bin/Debug/net6.0/RewardPoints.runtimeconfig.json
+D:/test/RewardPoints/bin/Debug/net6.0/RewardPoints.dll
+D:/test/RewardPoints/bin/Debug/net6.0/RewardPoints.pdb
+D:/test/RewardPoints/bin/Debug/net6.0/Microsoft.OpenApi.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/test/RewardPoints/obj/Debug/net6.0/RewardPoints.csproj.AssemblyReference.cache
+D:/test/RewardPoints/obj/Debug/net6.0/RewardPoints.GeneratedMSBuildEditorConfig.editorconfig
+D:/test/RewardPoints/obj/Debug/net6.0/RewardPoints.AssemblyInfoInputs.cache
+D:/test/RewardPoints/obj/Debug/net6.0/RewardPoints.AssemblyInfo.cs
+D:/test/RewardPoints/obj/Debug/net6.0/RewardPoints.csproj.CoreCompileInputs.cache
+D:/test/RewardPoints/obj/Debug/net6.0/RewardPoints.MvcApplicationPartsAssemblyInfo.cs
+D:/test/RewardPoints/obj/Debug/net6.0/RewardPoints.MvcApplicationPartsAssemblyInfo.cache
+D:/test/RewardPoints/obj/Debug/net6.0/staticwebassets.build.json
+D:/test/RewardPoints/obj/Debug/net6.0/staticwebassets.development.json
+D:/test/RewardPoints/obj/Debug/net6.0/scopedcss/bundle/RewardPoints.styles.css
+D:/test/RewardPoints/obj/Debug/net6.0/RewardPoints.csproj.CopyComplete
+D:/test/RewardPoints/obj/Debug/net6.0/RewardPoints.dll
+D:/test/RewardPoints/obj/Debug/net6.0/refint/RewardPoints.dll
+D:/test/RewardPoints/obj/Debug/net6.0/RewardPoints.pdb
+D:/test/RewardPoints/obj/Debug/net6.0/RewardPoints.genruntimeconfig.cache
+D:/test/RewardPoints/obj/Debug/net6.0/ref/RewardPoints.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Azure.Core.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Azure.Identity.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+D:/test/RewardPoints/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/test/RewardPoints/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+D:/test/RewardPoints/bin/Debug/net6.0/System.Drawing.Common.dll
+D:/test/RewardPoints/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+D:/test/RewardPoints/bin/Debug/net6.0/System.Memory.Data.dll
+D:/test/RewardPoints/bin/Debug/net6.0/System.Runtime.Caching.dll
+D:/test/RewardPoints/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/test/RewardPoints/bin/Debug/net6.0/System.Security.Permissions.dll
+D:/test/RewardPoints/bin/Debug/net6.0/System.Windows.Extensions.dll
+D:/test/RewardPoints/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/test/RewardPoints/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/test/RewardPoints/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/test/RewardPoints/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/test/RewardPoints/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/test/RewardPoints/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/test/RewardPoints/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/test/RewardPoints/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/test/RewardPoints/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/test/RewardPoints/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/test/RewardPoints/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/test/RewardPoints/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/appsettings.Development.json
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/appsettings.json
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/RewardPoints
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/RewardPoints.deps.json
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/RewardPoints.runtimeconfig.json
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/RewardPoints.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/RewardPoints.pdb
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Azure.Core.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Azure.Identity.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vd/Downloads/RewardPoints - Copy/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/vd/Downloads/RewardPoints - Copy/obj/Debug/net6.0/RewardPoints.csproj.AssemblyReference.cache
+/Users/vd/Downloads/RewardPoints - Copy/obj/Debug/net6.0/RewardPoints.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vd/Downloads/RewardPoints - Copy/obj/Debug/net6.0/RewardPoints.AssemblyInfoInputs.cache
+/Users/vd/Downloads/RewardPoints - Copy/obj/Debug/net6.0/RewardPoints.AssemblyInfo.cs
+/Users/vd/Downloads/RewardPoints - Copy/obj/Debug/net6.0/RewardPoints.csproj.CoreCompileInputs.cache
+/Users/vd/Downloads/RewardPoints - Copy/obj/Debug/net6.0/RewardPoints.MvcApplicationPartsAssemblyInfo.cs
+/Users/vd/Downloads/RewardPoints - Copy/obj/Debug/net6.0/RewardPoints.MvcApplicationPartsAssemblyInfo.cache
+/Users/vd/Downloads/RewardPoints - Copy/obj/Debug/net6.0/staticwebassets/msbuild.RewardPoints.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/vd/Downloads/RewardPoints - Copy/obj/Debug/net6.0/staticwebassets/msbuild.build.RewardPoints.props
+/Users/vd/Downloads/RewardPoints - Copy/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.RewardPoints.props
+/Users/vd/Downloads/RewardPoints - Copy/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.RewardPoints.props
+/Users/vd/Downloads/RewardPoints - Copy/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/vd/Downloads/RewardPoints - Copy/obj/Debug/net6.0/staticwebassets.build.json
+/Users/vd/Downloads/RewardPoints - Copy/obj/Debug/net6.0/staticwebassets.development.json
+/Users/vd/Downloads/RewardPoints - Copy/obj/Debug/net6.0/scopedcss/bundle/RewardPoints.styles.css
+/Users/vd/Downloads/RewardPoints - Copy/obj/Debug/net6.0/RewardPoints.csproj.CopyComplete
+/Users/vd/Downloads/RewardPoints - Copy/obj/Debug/net6.0/RewardPoints.dll
+/Users/vd/Downloads/RewardPoints - Copy/obj/Debug/net6.0/refint/RewardPoints.dll
+/Users/vd/Downloads/RewardPoints - Copy/obj/Debug/net6.0/RewardPoints.pdb
+/Users/vd/Downloads/RewardPoints - Copy/obj/Debug/net6.0/RewardPoints.genruntimeconfig.cache
+/Users/vd/Downloads/RewardPoints - Copy/obj/Debug/net6.0/ref/RewardPoints.dll
